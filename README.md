@@ -4,4 +4,4 @@ After a terrible storm, Cota, a mysterious creature that can harness the power o
 
 As of 5/20/17 - Game runs on Mac.  Windows version will most likely be available soon!
 
-For instructions on installation and gameplay, read gameManual.pdf.
+For instructions on installation and gameplay, read gameManual.pdf. Use the Mac.zip file in this repo.
