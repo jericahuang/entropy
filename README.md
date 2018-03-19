@@ -6,4 +6,4 @@ As of 5/20/17 - Game runs on Mac.  Windows version will most likely be available
 
 For instructions on installation and gameplay, read gameManual.pdf and use the Mac.zip file. Or run the following command with Entropy.jar in the root directory of this repo.
 
-```java -jar Entropy.jar
+```java -jar Entropy.jar```
